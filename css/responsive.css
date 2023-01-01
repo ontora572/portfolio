@@ -1,0 +1,486 @@
+@media (max-width: 575.98px) {
+  #navbar .menu_bg{
+    background-color: #16003bfa;
+    padding: 5px 0;
+}
+#navbar .menu_bg .navbar-brand img{
+  width: 60%;
+}
+.menu_bg i{
+  color: white;
+  font-size: 18px;
+}
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 transparent;
+}
+.navbar-light .navbar-toggler {
+  border-color: white;
+}
+.menu_bg ul{
+  text-align: center;
+}
+.menu_bg ul li a::after{
+  display: none;
+}
+.menu_bg ul li a{
+  font-size: 13px;
+  color: white;
+}
+#navbar ul li:hover a{
+  color: #ce0071;
+}
+/* navbar part end */
+#banner{
+  min-height: 50vh; 
+}
+#banner .ban-text h5{
+   font-size: 20px;
+}
+#banner .ban-text {
+  padding-top: 110px;
+}
+#banner .ban-text h4{
+  font-size: 22px;
+}
+#banner .ban-text p{
+    font-size: 14px;
+    padding: 3px 0;
+}
+#banner .ban-text button{
+  padding: 5px;
+  font-size: 10px;
+  margin-top: 3px;
+}
+#banner .ban-text h1{
+   font-size: 18px;
+}
+/* about part start */
+#about{
+  padding: 30px 0;
+}
+#about .about_left img{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#about .about_left img{
+  border: 10px solid #16003B;
+}
+#about .about_right{
+  text-align: center;
+  padding-top: 40px;
+}
+#about .about_titles .about_link {
+	margin: 0 auto;
+	font-size: 20px;
+	font-weight: 500;
+}
+#about .about_titles p{
+  font-size: 16px !important;
+  text-align: center;
+  padding: 0;
+}
+#about .about_tab_in{
+  margin: 30px 0;
+}
+#about .about_box p{
+   font-size: 14px;
+}
+#about .about_tab_in{
+  display: block;
+}
+/* about part end */
+/* skills part start */
+#slills{
+  padding: 10px 0;
+}
+    #skills #demo .circlechart {
+        margin: 5px;
+        padding: 10px;
+    }
+#skills .skills_head h2{
+    font-size: 30px;
+}
+#skills .skills_head p{
+  font-size: 16px;
+}
+#skills .circle-chart {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+}
+/* skills part end */
+
+/* portfolio part start */
+#portfolio{
+  padding: 10px 0;
+}
+#portfolio .mixitup_head h2{
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+#portfolio .mixit_btn button{
+  padding: 5px;
+  font-size: 12px;
+}
+#portfolio .mixit_item img{
+  width: 100%;
+  height: 200px;
+}
+/* portfolio part start */
+
+
+/* contact part start */
+#contact{
+  padding: 30px 0;
+}
+#contact .con_box{
+  padding: 5px;
+  width: 35%;
+  margin: 0 10px;
+  
+}
+#contact .con_box p{
+  font-size: 10px;
+}
+#contact .con_head h2{
+  font-size: 30px;
+}
+#contact .con_head p{
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+#contact .con_loca{
+  margin-bottom: 30px;
+}
+#contact .conta_loca iframe{
+  width: 100%;
+  height: 300px;
+}
+/* contact part end */
+}
+
+@media (max-width: 768px) {
+   
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px){ 
+  #navbar .menu_bg{
+    background-color: #16003bfa;
+    padding: 5px 0;
+}
+#navbar .menu_bg .navbar-brand img{
+  width: 70%;
+}
+.menu_bg i{
+  color: white;
+  font-size: 18px;
+}
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 transparent;
+}
+.navbar-light .navbar-toggler {
+  border-color: white;
+}
+.menu_bg ul{
+  text-align: center;
+}
+.menu_bg ul li a::after{
+  display: none;
+}
+.menu_bg ul li a{
+  font-size: 13px;
+  color: white;
+}
+#navbar ul li:hover a{
+  color: #ce0071;
+}
+/* navbar part end */
+#banner{
+  min-height: 60vh; 
+}
+#banner .ban-text h5{
+  font-size: 25px;
+}
+#banner .ban-text {
+ padding-top: 110px;
+}
+#banner .ban-text h4{
+ font-size: 27px;
+}
+#banner .ban-text p{
+   font-size: 14px;
+   padding: 3px 0;
+}
+#banner .ban-text button{
+ padding: 8px;
+ font-size: 12px;
+ margin-top: 3px;
+}
+#banner .ban-text h1{
+  font-size: 20px;
+}
+/* about part start */
+#about{
+  padding: 30px 0;
+}
+#about .about_left img{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#about .about_left img{
+  border: 10px solid #16003B;
+}
+#about .about_right{
+  text-align: center;
+  padding-top: 40px;
+}
+#about .about_right h3{
+  font-size: 35px;
+}
+#about .about_titles .about_link {
+	margin: 0 auto;
+	font-size: 20px;
+	font-weight: 500;
+}
+#about .about_titles p{
+  font-size: 18px !important;
+  text-align: center;
+  padding: 0;
+}
+#about .about_tab_in{
+  margin: 30px 0;
+}
+#about .about_box p{
+   font-size: 16px;
+}
+#about .about_tab_in{
+  display: block;
+}
+/* about part end */
+/* skills part start */
+#slills{
+  padding: 10px 0;
+}
+#skills #demo .circlechart {
+   margin: 5px;
+   padding: 10px;
+}
+#skills .skills_head h2{
+    font-size: 35px;
+}
+#skills .skills_head p{
+  font-size: 16px;
+}
+#skills .circle-chart {
+  width: 140px;
+  height: 140px;
+  margin: 0 auto;
+}
+/* skills part end */
+/* portfolio part start */
+#portfolio{
+  padding: 10px 0;
+}
+#portfolio .mixitup_head h2{
+  font-size: 35px;
+  padding-bottom: 20px;
+}
+#portfolio .mixit_btn button{
+  padding: 5px;
+  font-size: 12px;
+}
+#portfolio .mixit_item img{
+  width: 100%;
+  height: 250px;
+}
+/* portfolio part start */
+#contact{
+  padding: 30px 0;
+}
+#contact .con_box{
+  padding: 5px;
+  width: 35%;
+  margin: 0 10px;
+  
+}
+#contact .con_box p{
+  font-size: 10px;
+}
+#contact .con_head h2{
+  font-size: 30px;
+}
+#contact .con_head p{
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+#contact .con_loca{
+  margin-bottom: 30px;
+}
+#contact .conta_loca iframe{
+  width: 100%;
+  height: 300px;
+}
+/* contact part end */
+
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px){ 
+  #navbar .menu_bg .navbar-brand img{
+    width: 80%;
+  }
+  #navbar ul li a{
+    font-size: 14px;
+  }
+  #banner{
+    min-height: 75vh; 
+  }
+  #banner .ban-text{
+    padding-top: 130px;
+   }
+   #banner .ban-text h5{
+    font-size: 35px;
+}
+#banner .ban-text h4{
+    font-size: 38px;
+     font-weight: 500;
+     padding: 7px 0;
+}
+#banner .ban-text p{
+    font-size: 18px;
+     padding: 5px 0px;
+     width: 480px;
+}
+#banner .ban-text button{
+  padding: 8px;
+}
+
+
+
+#about .about_left img{
+  width: 100%;
+  height: 360px;
+  
+}
+#about .about_right h3{
+  font-size: 18px;
+}
+#about .about_right h4{
+  padding: 5px 0;
+  font-size: 16px;
+}
+#about .about_right p{
+  font-size: 12px;
+}
+#about .about_titles p{
+  font-size: 14px !important;
+  text-align: center;
+  padding: 0;
+}
+#about .about_titles{
+  margin-top: -24px;
+}
+#about .about_tab_in{
+  margin-top: -24px;
+}
+#about .about_right .about_cnt{
+  padding: 10px 30px;
+}
+#about .about_right .about_cnt i{
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  font-size: 20px;
+  margin: 0 7px;
+}
+#about .about_edu{
+  margin-top: -24px;
+}
+#about .about_edu_in h6{
+  margin: 10px 0;
+  font-size: 14px;
+}
+#about .about_edu_in span{
+  font-size: 12px;
+  padding: 5px;
+}
+#skills .skills_head h2{
+  font-size: 35px;
+}
+#portfolio .mixitup_head h2{
+  font-size: 37px;
+}
+#contact .con_head h2{
+  font-size: 35px;
+}
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px){ 
+  #navbar .menu_bg .navbar-brand img{
+    width: 90%;
+  }
+  #banner h1{
+    font-size: 35px;
+}
+#banner{
+  min-height: 85vh; 
+}
+#banner .ban-text{
+  padding-top: 170px; 
+  z-index: 2;
+}
+#skills .circle-chart {
+  width: 160px;
+  height: 160px;
+  margin: 0 auto;
+}
+#skills #demo .circlechart {
+  margin-left: 10px;
+  padding: 15px;
+}
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+  #navbar .menu_bg .navbar-brand img{
+    width: 100%;
+  }
+  #skills #demo .circlechart {
+    margin-left: 25px;
+    padding: 14px;
+  }
+  #skills .circle-chart {
+    width: 177px;
+    height: 177px;
+    margin: 0 auto;
+  }
+
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px){ 
+
+
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px){ 
+
+
+
+}
